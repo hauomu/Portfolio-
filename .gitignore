@@ -1,1 +1,6 @@
 .env
+config.yaml
+litellm_config.yaml
+settings.json
+*.key
+venv/
